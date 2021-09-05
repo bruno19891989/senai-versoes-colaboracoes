@@ -1,0 +1,14 @@
+A) Qual é a função da placa de video?
+R: Tem a função de transmitir as imagens para o monitor.
+
+B) O que é sistema operacional?
+R: Um sistema operacional é responsável pelo gerenciamento de todo o hardware do seu computador
+
+C) Qual é a diferença entre HD e SSD?
+R:Uma unidade de disco rígido (HDD) é um dispositivo de armazenamento antigo que usa pratos mecânicos e um cabeçote 
+móvel de leitura/gravação para acessar dados. Uma unidade de estado sólido (SSD) um tipo de dispositivo mais novo e 
+rápido que armazena dados em chips de memória que podem ser acessados imediatamente.
+
+D) Qual é a função do Cooler?
+R: Os coolers e fans foram criados para resolver o problema de superaquecimento de determinados componentes de um 
+computador.

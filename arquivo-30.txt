@@ -1,0 +1,12 @@
+A) Qual é a função do comando Git Add?
+R: O comando git add adiciona uma alteração no diretório ativo à área de staging. Ele diz ao Git que você quer 
+incluir atualizações a um arquivo específico no próximo commit.
+
+B) Qual função é a função do comando Git Commit -M?
+R:git commit compõem o fluxo de trabalho fundamental do Git os meios de gravar versões de um projeto no 
+histórico do repositório.
+
+C) Qual é a função do comando Git Init?
+R: git init é um comando único que você usa durante a configuração inicial de um novo repositório. A execução 
+desse comando cria um novo subdiretório . git no diretório de trabalho atual. Essa ação também vai criar uma 
+ramificação principal.
